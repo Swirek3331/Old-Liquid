@@ -9,5 +9,5 @@ description:
 '''
 Raplaces new sprites for liquids (cryofluid, oil, slag) with the classic ones
 '''
-minGameVersion: 148
+minGameVersion: 147
 hideBrowser: false
