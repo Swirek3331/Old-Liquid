@@ -2,7 +2,6 @@ name: old-liquid
 displayName: Old Liquid
 author: Świrek
 version: 0.0.0
-# Version of the mod.
 repo: Swirek3331/Old-Liquid
 subtitle: Old sprites better
 description:
@@ -10,4 +9,4 @@ description:
 Raplaces new sprites for liquids (cryofluid, oil, slag) with the classic ones
 '''
 minGameVersion: 146
-hideBrowser: false
+hideBrowser: true
